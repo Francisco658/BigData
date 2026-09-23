@@ -1,6 +1,6 @@
 # Smart Analysis in Big Data Systems - Practical Project
 
-Practical Project developed as part of Smart Analysis in Big Data Systems course unit.
+Practical Project developed as part of the Smart Analysis in Big Data Systems course unit.
 
 **<ins> Team Members </ins>**
 * Afonso Bessa - pg53597
